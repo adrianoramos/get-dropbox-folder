@@ -1,2 +1,2 @@
 # get-dropbox-folder
-Return Dropbox folder path
+A simple shell script to get Dropbox folder path.
